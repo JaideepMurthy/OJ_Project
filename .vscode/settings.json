@@ -1,0 +1,10 @@
+{
+    "stylelint.validate": [
+      "css",
+      "scss",
+      "less",
+      "postcss"
+    ],
+    // You can add other settings here as needed
+  }
+  
